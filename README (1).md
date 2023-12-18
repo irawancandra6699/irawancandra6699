@@ -1,7 +1,7 @@
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+Kai!;Welcome;To+my+GitHub+world!🚀"
+        src="https://readme-typing-svg.herokuapp.com?font=GlossAndBloom&size=30&duration=4997&color=993300&background=FF673200&center=true&vCenter=true&lines=Hey+there!;It's+me,+CandraIrawan;Welcome;To+my+GitHub+world!🚀"
             alt="Typing SVG"
         /
         >
@@ -12,7 +12,7 @@
 
 <h2 align="center"></h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanzydev&label=Profile%20views&color=0e75b6&style=flat" alt="sanzydev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=irawancandra6699&label=Profile%20views&color=0e75b6&style=flat" alt="irawancandra6699" /> </p>
 
 <br>
 
@@ -38,7 +38,7 @@
 <p align="center">🌟 If you share any of these interests or want to collaborate, feel free to connect with me!</p>
 
 <p align="center">
-  <a href="https://wa.me/6281276698054"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
+  <a href="https://wa.me/6281573872702"><img src="https://cdn-icons-png.flaticon.com/512/124/124034.png" alt="Social Media Icon" width="30" height="30"></a>
   <a href="https://youtube.com/@SANZYYT"><img src="https://i.ibb.co/rFJv7pC/1701093278737-removebg-preview.png" alt="Website Icon" width="40" height="30"></a>
 </p>
 
@@ -110,24 +110,24 @@
 
 
 <p align="center">
-  <a href="https://github.com/sanzydev"> <img  alt="SanzyDev's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sanzydev?cardType=github&theme=github-dark&preferLogin=true" />  </a>
+  <a href="https://github.com/irawancandra6699"> <img  alt="irawancandra6699 GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sanzydev?cardType=github&theme=github-dark&preferLogin=true" />  </a>
 
 
 
 <p align="center">
-  <a href="https://github.com/sanzydev">
-    <img src="https://streak-stats.demolab.com?user=sanzydev&theme=dark&background=000000" alt="GitHub Streak">
+  <a href="https://github.com/irawancandra6699">
+    <img src="https://streak-stats.demolab.com?user=irawancandra6699&theme=dark&background=000000" alt="GitHub Streak">
   </a>
 </p>
 
 
  <p align="center">
-    <a href="https://github.com/sanzydev">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzydev&theme=redical" alt="Stats">
+    <a href="https://github.com/irawancandra6699">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=irawancandra6699&theme=redical" alt="Stats">
     </a>
 </p>
 
 
-<p align="center"><a href="https://github.com/sanzydev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzydev&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/irawancandra6699"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanzydev&theme=radical&layout=compact"></a></p> 
 
 
